@@ -2,6 +2,7 @@
 
 ## Objective
 The main goal of this project is to analyze retail sales data of a coffee shop to derive actionable insights that will help improve its overall performance.
+![Coffee Sales Dashboard](Screenshot 2024-02-15 143928.png)
 
 ## Key Analyses Performed
 
